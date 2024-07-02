@@ -7,7 +7,8 @@
 .light {
     background-color: yellow;
 }
-#font {
+.dark,
+.light {
     font-size: 28px;
-    font-family: Helvetcia, 'Times New Roman', sans-serif;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
 }
